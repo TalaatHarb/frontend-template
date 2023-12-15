@@ -76,11 +76,14 @@
 }
 
 .header-spacer {
+    width: 100%;
     height: var(--header-h);
     background-color: pink;
 }
 
 .spacer{
+    border: 1px black solid;
+    width: 100%;
     height: 100px;
     background-color: pink;
 }
